@@ -1,0 +1,20 @@
+[
+  {
+    "title": "trackmania",
+    "description": "AUTHORS: NIELS GRÄBER AND ROBIN OPHEIJ<br>We welcome you to listen to our e-sports commentary of the 2022 Trackmania World Cup Finals. A research into the ways humans and AI can collaborate, through the medium of sports narration. Real-time events are used as input to generate AI scripts, which are in then fed into a text-to-speech network. We hope to close a gap between the way humans and artificial intelligences communicate.",
+    "titleImage": "/Trackmania/Tracklogo.png",
+    "backgroundImage": "/Trackmania/background.jpg"
+  },
+  {
+    "title": "traceroute",
+    "description": "traceroute is an experience where the listener can emerge in the path we take when we request to enter an address on the internet. We visit each digital location at its physical place, making a relation to the real world. The name of the project is equal to the program which lives in the terminal of our computers. This program reveals the full list of places that our computers have to visit before reaching the end destination (a website).<br><br>Artists: Isaac van den Aaker, Kaan Pişkin and Niels Nicola",
+    "titleImage": "/traceroute/title.png",
+    "backgroundImage": "/traceroute/achtergrond.jpg"
+  },
+  {
+    "title": "murder",
+    "description": "Unheard Danger is an experience that evokes a range of emotions. As you listen, you feel a sense of apprehension and unease, like something is about to happen but you don't know what. The sounds are sharp and abrasive, taking you out of your comfort zone and leaving you on edge. You are in a place where violence could erupt at any moment. But this only adds to the feeling of tension, as you struggle to make sense of the chaos around you.<br><br>Artists: Goeun LEE,  Mare de Boer and Misha van Rooij.",
+    "titleImage": "/Murder/Titel Unheard.png",
+    "backgroundImage": "#191919;"
+  }
+]

@@ -1,0 +1,55 @@
+@media only screen and (max-width: 595px) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  .hero {
+    padding-top: 3rem;
+  }
+
+  .logo {
+    top: 1.5rem;
+    left: 1.5rem;
+  }
+
+  .introduction {
+    position: relative;
+    left: 0;
+    width: 100%;
+  }
+
+  .container {
+    width: 100%;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+
+  .work-description {
+    overflow: scroll;
+    mask-image: linear-gradient(0deg, transparent 0, red 8rem);
+    -webkit-mask-image: linear-gradient(0deg, transparent 0, red 8rem);
+    padding-bottom: 8rem;
+  }
+
+  .left-nav {
+    left: 1.5rem;
+  }
+
+  .right-nav {
+    right: 1.5rem;
+  }
+
+  .content.murder {
+    justify-content: space-between;
+    background: #191919;
+  }
+
+  .content.murder .title {
+    display: inherit;
+  }
+
+  .content .title,
+  .content.traceroute .title {
+    width: 75dvw;
+  }
+}
