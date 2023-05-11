@@ -227,5 +227,27 @@ function add(child, parent) {
   }
 }
 
-if (main.style.transform == "100dvw") {
-}
+document.addEventListener("click", () => {
+  if (transform === 0) {
+    rightNav.classList.add("animate");
+    setTimeout(() => {
+      rightNav.classList.add("hidden")
+    }, 400);
+  } else {
+    rightNav.classList.remove("hidden");
+    setTimeout(() => {
+      rightNav.classList.remove("animate")
+    }, 400);
+  }
+  if (transform === -200) {
+    leftNav.classList.add("animate");
+    setTimeout(() => {
+      leftNav.classList.add("hidden")
+    }, 400);
+  } else {
+    leftNav.classList.remove("hidden");
+    setTimeout(() => {
+      leftNav.classList.remove("animate")
+    }, 400);
+  }
+});

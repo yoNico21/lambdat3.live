@@ -158,6 +158,17 @@ button:hover {
   position: fixed;
   top: 50dvh;
   transform: translate(0%, -50%);
+  display: inline-block;
+  transition: 0.3s all ease;
+  opacity: 1;
+}
+
+.hidden {
+  display: none;
+}
+
+.animate {
+  opacity: 0 !important;
 }
 
 .left-nav {
