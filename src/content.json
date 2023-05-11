@@ -1,13 +1,13 @@
 [
   {
     "title": "trackmania",
-    "description": "AUTHORS: NIELS GRÄBER AND ROBIN OPHEIJ<br>We welcome you to listen to our e-sports commentary of the 2022 Trackmania World Cup Finals. A research into the ways humans and AI can collaborate, through the medium of sports narration. Real-time events are used as input to generate AI scripts, which are in then fed into a text-to-speech network. We hope to close a gap between the way humans and artificial intelligences communicate.",
+    "description": "We welcome you to listen to our e-sports commentary of the 2022 Trackmania World Cup Finals. A research into the ways humans and AI can collaborate, through the medium of sports narration. Real-time events are used as input to generate AI scripts, which are in then fed into a text-to-speech network. We hope to close a gap between the way humans and artificial intelligences communicate.<br><br>Artists: Niels Gräber and Robin Opheij",
     "titleImage": "/Trackmania/Tracklogo.png",
     "backgroundImage": "/Trackmania/background.jpg"
   },
   {
     "title": "traceroute",
-    "description": "traceroute is an experience where the listener can emerge in the path we take when we request to enter an address on the internet. We visit each digital location at its physical place, making a relation to the real world. The name of the project is equal to the program which lives in the terminal of our computers. This program reveals the full list of places that our computers have to visit before reaching the end destination (a website).<br><br>Artists: Isaac van den Aaker, Kaan Pişkin and Niels Nicola",
+    "description": "traceroute is an experience where the listener can emerge in the path we take when we request to enter an address on the internet. We visit each digital location at its physical place, making a relation to the real world. The name of the project is equal to the program which lives in the terminal of our computers. This program reveals the full list of places that our computers have to visit before reaching the end destination, which in our case is the website you are visiting now.<br><br>Artists: Isaac van den Aker, Kaan Pişkin and Niels Nicola",
     "titleImage": "/traceroute/title.png",
     "backgroundImage": "/traceroute/achtergrond.jpg"
   },
