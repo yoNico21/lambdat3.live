@@ -1,3 +1,7 @@
+import { inject } from '@vercel/analytics';
+ 
+inject();
+
 const body = document.body;
 const hero = document.querySelector(".hero");
 const main = document.querySelector("main");
